@@ -9,3 +9,15 @@ C:\Users\ACER\source\repos\HTMLToRTFString\bin\Debug\net5.0\HTMLToRTFString.pdb
 C:\Users\ACER\source\repos\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.dll
 C:\Users\ACER\source\repos\HTMLToRTFString\obj\Debug\net5.0\ref\HTMLToRTFString.dll
 C:\Users\ACER\source\repos\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.pdb
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\bin\Debug\net5.0\HTMLToRTFString.deps.json
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\bin\Debug\net5.0\HTMLToRTFString.dll
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\bin\Debug\net5.0\ref\HTMLToRTFString.dll
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\bin\Debug\net5.0\HTMLToRTFString.pdb
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.csprojAssemblyReference.cache
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.GeneratedMSBuildEditorConfig.editorconfig
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.AssemblyInfoInputs.cache
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.AssemblyInfo.cs
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.csproj.CoreCompileInputs.cache
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.dll
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\obj\Debug\net5.0\ref\HTMLToRTFString.dll
+G:\Work\HTMLToRTFString\HTMLToRTFString\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.pdb
