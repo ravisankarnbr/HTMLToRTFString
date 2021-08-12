@@ -1,0 +1,36 @@
+﻿namespace HTMLToRTFString.Html.Dom
+{
+    public enum HtmlElementType
+    {
+        Div,
+        P,
+        Strong,
+        Em,
+        Del,
+        Li,
+        Ol,
+        Ul,
+        Br,
+        Blockquote,
+        Pre,
+        Text,
+        Caption,
+        A,
+        B,
+        Footer,
+        H1,
+        H2,
+        H3,
+        H4,
+        H5,
+        Header,
+        Mark,
+        Meta,
+        Span,
+        U,
+        Label,
+        I,
+        Q,
+        S
+    }
+}

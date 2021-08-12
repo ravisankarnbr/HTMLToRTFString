@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.AssemblyInfo.cs
+C:\Users\ACER\source\repos\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\HTMLToRTFString\bin\Debug\net5.0\HTMLToRTFString.deps.json
+C:\Users\ACER\source\repos\HTMLToRTFString\bin\Debug\net5.0\HTMLToRTFString.dll
+C:\Users\ACER\source\repos\HTMLToRTFString\bin\Debug\net5.0\ref\HTMLToRTFString.dll
+C:\Users\ACER\source\repos\HTMLToRTFString\bin\Debug\net5.0\HTMLToRTFString.pdb
+C:\Users\ACER\source\repos\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.dll
+C:\Users\ACER\source\repos\HTMLToRTFString\obj\Debug\net5.0\ref\HTMLToRTFString.dll
+C:\Users\ACER\source\repos\HTMLToRTFString\obj\Debug\net5.0\HTMLToRTFString.pdb

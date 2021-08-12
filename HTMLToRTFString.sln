@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTMLToRTFString", "HTMLToRTFString\HTMLToRTFString.csproj", "{E053B14F-B0E9-442D-BE36-3A9B8CECF6EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTMLToRTFString.Demo", "HTMLToRTFString.Demo\HTMLToRTFString.Demo.csproj", "{20A2E2A2-ED16-4A1C-9520-6A5B96C3A9B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E053B14F-B0E9-442D-BE36-3A9B8CECF6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E053B14F-B0E9-442D-BE36-3A9B8CECF6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E053B14F-B0E9-442D-BE36-3A9B8CECF6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E053B14F-B0E9-442D-BE36-3A9B8CECF6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A2E2A2-ED16-4A1C-9520-6A5B96C3A9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A2E2A2-ED16-4A1C-9520-6A5B96C3A9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A2E2A2-ED16-4A1C-9520-6A5B96C3A9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A2E2A2-ED16-4A1C-9520-6A5B96C3A9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3DDBD1E-6D8D-4299-BCD6-29DCD4F0DB7D}
+	EndGlobalSection
+EndGlobal
